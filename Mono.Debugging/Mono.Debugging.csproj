@@ -7,6 +7,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{90C99ADB-7D4B-4EB4-98C2-40BD1B14C7D2}</ProjectGuid>
     <OutputType>Library</OutputType>
+     <OutputPath>bin\d</OutputPath>
+     <RuntimeIdentifier>win</RuntimeIdentifier>
     <RootNamespace>Mono.Debugging</RootNamespace>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>mono.debugging.snk</AssemblyOriginatorKeyFile>
